@@ -26,4 +26,4 @@ $ npm start
 ## Deployment
 The project was deployed using codesandbox. 
 
-Link : https://i3ihbp-3000.csb.app/
+Link : https://calculator-theta-indol.vercel.app/
